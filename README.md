@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parmeet-singh-13
-- 🍿 Movie/series freak
+- 🍿 Movie freak
 - 🦸‍♂️ MCU Fan
 - 👀 I’m interested in  AIML and probably in modding and using custom ROMs
 - 🌱 I’m currently learning CSE with specialization AIML
