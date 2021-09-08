@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Parmeet-singh-13
-- 🍿 Movie freak
-- 🦸‍♂️ MCU Fan
+- 🍿 Cinephile
+- 🖥️ Graphic Designer
+- 📷 Photographer
 - 👀 I’m interested in  AIML and probably in modding and using custom ROMs
-- 🌱 I’m currently learning CSE with specialization AIML
+- 🌱 I’m currently pursuing Btech in CSE with specialization AIML
 
 <!---
 Parmeet-singh-13/Parmeet-singh-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
